@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc8fdaef-b79e-4325-b6f0-d5fc30684fc3" name="Default Changelist" comment="Versão base">
+    <list default="true" id="dc8fdaef-b79e-4325-b6f0-d5fc30684fc3" name="Default Changelist" comment="Versão base alterações">
+      <change afterPath="$PROJECT_DIR$/.flake8" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,6 +31,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sidnei\PycharmProjects\pythonProject\libpythonpro" />
+      <recent name="C:\Users\sidnei\PycharmProjects\pythonProject\libpythonpro\libpythonpro" />
+      <recent name="C:\Users\sidnei\PycharmProjects\pythonProject\libpythonpro\.venv" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="github_api" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -75,8 +83,32 @@
       <option name="project" value="LOCAL" />
       <updated>1614131257198</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Versão base alterações">
+      <created>1614181448548</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1614181448549</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Versão base alterações">
+      <created>1614302332522</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1614302332522</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -122,6 +154,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Versão base" />
-    <option name="LAST_COMMIT_MESSAGE" value="Versão base" />
+    <MESSAGE value="Versão base alterações" />
+    <option name="LAST_COMMIT_MESSAGE" value="Versão base alterações" />
   </component>
 </project>
